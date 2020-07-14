@@ -18,3 +18,6 @@ six==1.12.0
 sqlparse==0.3.0
 Werkzeug==0.16.0
 wincertstore==0.2
+google_images_download==2.8.0
+collections-extended==1.0.3
+simple-codecs==1.0
